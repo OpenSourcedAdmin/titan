@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"./random"
+	"github.com/OpenSourcedAdmin/titan/endpoint/random"
 
 	_ "github.com/mattn/go-sqlite3"
 )
